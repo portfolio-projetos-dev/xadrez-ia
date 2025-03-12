@@ -1,4 +1,4 @@
-# 🎬 xadrez-ia
+# ♟️ Xadrez IA
 
 <div align="center">
 <img src="https://github.com/portfolio-projetos-dev/xadrez-ia/raw/main/.gitassets/capa.png" width="350" />
@@ -13,13 +13,17 @@
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/chatgpt-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+    <img src="https://img.shields.io/badge/deepseek-0052FF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+
 </div>
 </div>
 
-DESCRIÇÃO
+O projeto Xadrez IA é uma aplicação inovadora que coloca duas inteligências artificiais em confronto direto em partidas de xadrez, oferecendo uma experiência fascinante para os entusiastas do jogo e da tecnologia. Nesta plataforma, os usuários têm a liberdade de selecionar quais modelos de IA irão disputar a partida, podendo escolher entre opções avançadas como os modelos da OpenAI, Gemini e DeepSeek.
+
+Além disso, a aplicação proporciona ao usuário a oportunidade de assistir tranquilamente ao desenrolar estratégico das partidas, clicando em um botão para permitir que a IA execute sua próxima jogada. Com isso, o usuário pode observar como diferentes modelos de IA abordam o jogo, aprendendo com as decisões e estratégias adotadas por cada uma.
 
 ## 🖥️ Como rodar este projeto 🖥️
 
@@ -31,35 +35,36 @@ DESCRIÇÃO
 
 1. Clone este repositório:
 
-    ```sh
-    git clone https://github.com/portfolio-projetos-dev/xadrez-ia
-    ```
+   ```sh
+   git clone https://github.com/portfolio-projetos-dev/xadrez-ia
+   ```
 
 2. Acesse o diretório do projeto:
 
-    ```sh
-    cd xadrez-ia
-    ```
+   ```sh
+   cd xadrez-ia
+   ```
 
 3. Instale as dependências:
 
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 
 4. Inicie o servidor (Next.js):
 
-    ```sh
-    npm run dev
-    ```
+   ```sh
+   npm run dev
+   ```
 
 5. Acesse o projeto em [http://localhost:3000](http://localhost:3000).
 
 ## 🗒️ Features do projeto 🗒️
 
-- OUTRO
-- OUTRO
-- OUTRO
+- Escolha entre modelos de IA como OpenAI, Gemini e DeepSeek para disputar partidas.
+- Permite que as IAs façam suas jogadas automaticamente quando o usuário aperta um botão.
+- Acompanhe as partidas em tempo real, observando cada jogada.
+- Observe as partidas sem necessidade de interação.
 
 ![](https://github.com/portfolio-projetos-dev/xadrez-ia/raw/main/.gitassets/1.png)
 
@@ -71,3 +76,6 @@ DESCRIÇÃO
 
 - [Next.js](https://nextjs.org/docs)
 - [TypeScript](https://www.typescriptlang.org/docs)
+- [OpenAI API](https://openai.com/index/openai-api/)
+- [DeekSeek API](https://api-docs.deepseek.com)
+- [Gemini API](https://ai.google.dev/gemini-api/docs)
